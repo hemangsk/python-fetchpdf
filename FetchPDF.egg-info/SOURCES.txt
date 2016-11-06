@@ -1,0 +1,10 @@
+setup.py
+FetchPDF.egg-info/PKG-INFO
+FetchPDF.egg-info/SOURCES.txt
+FetchPDF.egg-info/dependency_links.txt
+FetchPDF.egg-info/entry_points.txt
+FetchPDF.egg-info/requires.txt
+FetchPDF.egg-info/top_level.txt
+fetchpdf/__init__.py
+fetchpdf/__main__.py
+fetchpdf/fetchpdf.py

@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: FetchPDF
+Version: 0.1
+Summary: Fetches all .pdf files from a link, faster than ligh...sound
+Home-page: http://github.com/hemangsk/python-fetchpdf
+Author: Hemang Kumar
+Author-email: hemangsk@gmail.com
+License: GPLv3
+Description: UNKNOWN
+Keywords: fetch pdf link scrape fetchpdf
+Platform: UNKNOWN

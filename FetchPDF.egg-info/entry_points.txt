@@ -1,0 +1,3 @@
+[console_scripts]
+fetchpdf = fetchpdf.fetchpdf:main
+
