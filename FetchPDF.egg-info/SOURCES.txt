@@ -1,3 +1,4 @@
+README
 setup.py
 FetchPDF.egg-info/PKG-INFO
 FetchPDF.egg-info/SOURCES.txt

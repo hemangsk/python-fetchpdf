@@ -1,7 +1,11 @@
 from setuptools import setup, find_packages
+import sys
+if not sys.version_info[0] == 2:
+    sys.exit("Sorry, Python 3.5 is not supported (yet)")
+
 setup(
     name="FetchPDF",
-    version="0.1",
+    version="0.1.1",
     packages=["fetchpdf"],
     scripts=['fetchpdf.py'],
 
